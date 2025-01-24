@@ -1,0 +1,24 @@
+Principais Componentes da Solução:
+
+AWS Systems Manager: Para automação de tarefas operacionais como patching e monitoramento.
+CloudWatch: Monitoramento de recursos e execução de ações automáticas baseadas em métricas (como escalabilidade automática).
+CloudFormation: Explicar o uso para provisionamento e gerenciamento da infraestrutura usando templates.
+Elastic Load Balancer (ELB): Distribuição do tráfego entre instâncias EC2.
+Auto Scaling: automatiza como o número correto de instâncias EC2 é ajustado conforme a demanda.
+RDS MySQL: Armazenamento relacional dos dados, garantindo escalabilidade e alta disponibilidade.
+S3: Armazenamento de objetos com alta durabilidade, especialmente arquivos e imagens do e-commerce.
+VPC MultiAZ: VPC configurada para garantir segurança da rede, distribuindo recursos em diferentes zonas de disponibilidade.
+
+Otimização e Escalabilidade
+
+Integração de Auto Scaling e ELB: Explicar como o balanceamento de carga e a escalabilidade automática trabalham juntos para garantir que a aplicação lide bem com picos de tráfego.
+
+Automatização Completa: Mostrar como os serviços integrados permitem uma operação de infraestrutura totalmente automatizada e monitorada.
+
+Resultados e Benefícios
+
+Eficiência Operacional: Como a automação reduziu o tempo gasto em tarefas operacionais.
+Escalabilidade: O sistema agora ajusta automaticamente os recursos conforme a demanda.
+Segurança: Uso de VPC, segurança de dados em RDS e S3.
+Otimização de Custos: Explicar como o uso de Auto Scaling e outras ferramentas ajudou a otimizar custos de infraestrutura.
+

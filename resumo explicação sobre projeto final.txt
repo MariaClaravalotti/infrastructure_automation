@@ -1,0 +1,46 @@
+o valor mensal pode ter uma flexibilidade
+o valor anual nao pode passar do total dos 10k
+quais as necessidades?
+precisamos buscar deixar mais robusto
+a função basica é transformar a arquitetura, saindo da base atual pra algo totalmente diferente
+gastar o orçamento com isso e com foco tecnico
+
+"nosso grupo foi desafiado diretamente a focar mais no ponto de automatizaçao e por isso nossa apresentação vai ter mais foco nos serviços dessa area e tem mais atenção nisso"
+
+vao ter os serviços e ainda abordar o foco tecnico
+
+10 minutos de apresentação e 5 minutos pra perguntas.
+
+pode usar integraçoes com outras ferramentas fora da aws
+o principal ponto do foco é o orçamento disponivel
+
+fazer o melhor e o maximo possivel, considerando que o produto do cliente vai usar quase a capacidade maxima disponivel
+
+focar nos serviços que foram aprendidos no curso
+robusta, inovadora e resiliente com foco no assunto do grupo
+
+etapa 2, esboço da apresentação final do grupo, com um nivel de desenvolvimento ja, o corpo do trabalho ja
+
+
+etapa 3, momento que ver se aquilo é viavel, se o que foi pensado faz sentido pra uma carga de trabalho de um ecomerce, envolve pesquisa, se faz sentido a arquitetura que foi desenhada, se o fluxo da arquitetura esta adequado, se os serviços realmente tem integração, se funcionou o que pensamos, se esta dentro do orçamento de fato
+
+
+4a etapa - apresentação, precisamos vender a solução, a ideia projetada, nem todos precisam apresentar, pode explicar a dinamica do grupo como funcionou, na hora das perguntas, todos podem ter direito a responder, de acordo com quem tem mais entendimento pra isso. Todos tem que comparecer no dia, tem que estar claro o que fizeram no grupo
+serao avisados como vai funcionar no dia da apresentação, a apresentação será gravada.
+
+é só tratar o slide e discutir pagina por pagina dentro do tempo, saudação no inicio, apresentação do grupo no final, agradece o tempo, pergunta se tem duvidas, caso não, proximo grupo.
+
+da calculadora, precisa de print do resumo dela, com custo mensal e total, e precisa compratilhar o link dela com o instrutor 
+
+resolução do tema central ficou confuso: fala mais sobre o aprendizado e as competencias envolvidas, gestao de tempo, inteligencia emocional, trabalho em equipe, tudo que foi visto que sao competencias, dar o relato focando na parte que conhecemos sobre o que são competencias profissionais, como lidaram com tudo isso durante o grupo. ex:
+"nosso grupo teve dificuldade com disponbilidade de horario dos membros, nos tivemos que encontrar outras maneiras de trabalhar em equipe, nosso grupo´são os fulano, ciclano, beltrano, um focou em tal serviço, o outro em tal e etc, conseguimos organizar nosso tempo, enfrentamos dificuldades tambem, mas conseguimos superar o desafio x, ou seja, dar um relato bem breve sobre como funcionou a dinamica de voces (grupo). para que quem assista consiga ver que o grupo conseguiu ainda se organizar
+
+
+
+
+
+
+
+
+
+

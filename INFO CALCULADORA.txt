@@ -1,0 +1,29 @@
+HGJFJFJUGJYGJ
+
+
+
+
+
+
+HJGHJGKJKHBKJ
+
+2 fixa
+ ec2 2 variaveis
+
+3 anos contrato
+
+
+
+elb *
+auto scaling não paga
+ec2 fixa
+ec2 com pico de carga
+cloudformation
+rds
+s3
+vpc
+cloudwatch
+
+
+
+
