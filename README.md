@@ -94,7 +94,8 @@ Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias ou correções.
 
 
-![Infraestrutura](![image](https://github.com/user-attachments/assets/460c8123-0145-4740-8997-0390c9b6bc12)
+![Infraestrutura](![infra](https://github.com/user-attachments/assets/580aacdb-b694-474f-ab42-a7cb3d79fed7)
+
 )
 
 
