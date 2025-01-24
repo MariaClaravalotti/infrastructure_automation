@@ -5,7 +5,7 @@ Visão Geral
 
 Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) e tem como foco a automação de infraestrutura utilizando serviços da Amazon Web Services (AWS). O objetivo principal foi implementar uma arquitetura escalável, segura e automatizada que pudesse ser gerenciada com eficiência, aproveitando as melhores práticas de computação em nuvem.
 
-Objetivos do Projeto
+## Objetivos do Projeto
 
 Automação: Reduzir o esforço manual e o tempo necessário para gerenciar a infraestrutura.
 
@@ -15,7 +15,7 @@ Segurança: Implementar medidas de proteção de dados e acesso seguro.
 
 Custo-benefício: Utilizar recursos da AWS de forma eficiente para reduzir custos.
 
-Tecnologias e Serviços Utilizados
+## Tecnologias e Serviços Utilizados
 
 AWS Systems Manager: Para gerenciar e automatizar tarefas operacionais.
 
@@ -33,7 +33,7 @@ Amazon S3: Para armazenamento de objetos e arquivos.
 
 VPC Multi-AZ: Para criar uma infraestrutura de rede segura e de alta disponibilidade.
 
-Arquitetura do Projeto
+## Arquitetura do Projeto
 
 A arquitetura foi projetada para atender às melhores práticas recomendadas pela AWS, incluindo:
 
@@ -52,11 +52,12 @@ Estrutura do Repositório
 ├── logs/                 # Logs de monitoramento (exemplo)
 └── README.md             # Documentação principal
 
-Configuração e Implantação
+## Configuração e Implantação
 
 Clone este repositório:
 
 git clone https://github.com/usuario/repo-automacao-infra.git
+
 
 Configure as credenciais da AWS utilizando o AWS CLI:
 
@@ -68,17 +69,17 @@ aws cloudformation deploy --template-file cloudformation/main.yml --stack-name t
 
 Use os scripts em scripts/ para tarefas adicionais de configuração e automação.
 
-Monitoramento
+## Monitoramento
 
 O monitoramento da infraestrutura pode ser feito através do painel do Amazon CloudWatch. Dashboards personalizados foram configurados para acompanhar métricas críticas, como:
 
-Utilização de CPU
+## Utilização de CPU
 
 Taxa de transferência de rede
 
 Eventos de escalonamento
 
-Resultados
+## Resultados
 
 Este projeto demonstrou os seguintes benefícios:
 
@@ -91,6 +92,10 @@ Alta disponibilidade garantida por meio da arquitetura Multi-AZ.
 Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias ou correções.
+
+
+![Infraestrutura](![image](https://github.com/user-attachments/assets/460c8123-0145-4740-8997-0390c9b6bc12)
+)
 
 
 
